@@ -6,6 +6,6 @@ int main()
     i = 0;
     printf("Hello world\n");
     printf("hello everyone!:%d\n", i);
-    return 0;
+    return 1;
 }
 
